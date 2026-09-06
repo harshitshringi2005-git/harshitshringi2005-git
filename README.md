@@ -10,19 +10,20 @@ I'm a **B.Tech Computer Science student** who enjoys building practical applicat
 
 ## 🔭 Currently Exploring
 
-🤖 **Generative AI & LLMs**
-🧠 **RAG & AI Agents**
-📊 **Machine Learning & Data Science**
-💻 **Advanced Python & Software Development**
-🐳 **Docker, Kubernetes & DevOps**
-🔐 **Cybersecurity & Networking**
+🤖 **Generative AI & LLMs** • 🧠 **RAG & AI Agents** • 📊 **Machine Learning & Data Science**
+💻 **Advanced Python & Software Development** • 🐳 **DevOps & Cloud** • 🔐 **Cybersecurity**
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,docker,kubernetes,jenkins,githubactions,linux,mongodb,mysql,tensorflow,keras,sklearn,pandas,numpy" /> </p>
 
-<p align="center"> <b>Python</b> • <b>C</b> • <b>JavaScript</b> • <b>SQL</b> • <b>Pandas</b> • <b>NumPy</b> • <b>Scikit-learn</b> • <b>Matplotlib</b> • <b>Statsmodels</b> • <b>TensorFlow</b> • <b>Keras</b> • <b>Generative AI</b> • <b>LLMs</b> • <b>RAG</b> • <b>LangChain</b> • <b>CrewAI</b> • <b>Agentic AI</b> • <b>Prompt Engineering</b> • <b>FAISS</b> • <b>Vector Databases</b> • <b>Sentence Transformers</b> • <b>Streamlit</b> • <b>REST APIs</b> • <b>Git</b> • <b>GitHub</b> • <b>Docker</b> • <b>Kubernetes</b> • <b>Jenkins</b> • <b>GitHub Actions</b> • <b>Linux</b> • <b>NoSQL</b> • <b>Cybersecurity</b> • <b>CCNA</b> • <b>Networking</b> • <b>Cisco Packet Tracer</b> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,git,github,docker,kubernetes,jenkins,githubactions,linux,mongodb,tensorflow,keras,sklearn,pandas,numpy" />
+</p>
+
+<p align="center">
+  Python • C • JavaScript • SQL • Pandas • NumPy • Scikit-learn • Matplotlib • Statsmodels • TensorFlow • Keras • Generative AI • LLMs • RAG • LangChain • CrewAI • Agentic AI • Prompt Engineering • FAISS • Vector Databases • Sentence Transformers • Streamlit • REST APIs • Git • GitHub • Docker • Kubernetes • Jenkins • GitHub Actions • Linux • NoSQL • Cybersecurity • CCNA • Networking • Cisco Packet Tracer
+</p>
 
 ---
 
@@ -42,10 +43,40 @@ Python-based data analysis and machine learning project.
 
 ---
 
+
 ## 🤝 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/harshitshringi) • 📸 [Instagram](https://www.instagram.com/_harshiittt35) • 👻 [Snapchat](https://www.snapchat.com/add/s_harshit2203) • 📧 [Email](mailto:harshitshringi2005@gmail.com)
+<p align="center">
+  <a href="https://github.com/harshitshringi2005-git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshitshringi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_harshiittt35">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.snapchat.com/add/s_harshit2203">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
+  </a>
+  <a href="mailto:harshitshringi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ **Thanks for visiting!**
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitshringi2005-git&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitshringi2005-git&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitshringi2005-git&hide_border=true" width="95%"/>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
