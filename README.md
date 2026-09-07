@@ -46,18 +46,21 @@ Python-based data analysis and machine learning project.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitshringi2005-git&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=harshitshringi2005-git&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitshringi2005-git&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitshringi2005-git&layout=compact&theme=github_dark&hide_border=true" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitshringi2005-git&layout=compact&langs_count=8&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=harshitshringi2005-git&theme=github-dark&hide_border=true" width="70%" />
 </p>
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitshringi2005-git&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitshringi2005-git&theme=github-dark&hide_border=true" width="95%" />
 </p>
-
 
 ---
 
@@ -89,16 +92,6 @@ Python-based data analysis and machine learning project.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/harshitshringi2005-git">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitshringi2005-git&theme=github" width="95%"/>
-  </a>
 </p>
 
 ---
