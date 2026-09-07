@@ -48,7 +48,7 @@ Python-based data analysis and machine learning project.
 <p align="center">
 
   <a href="https://harshitshringi2005-git.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-000000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge"/>
   </a>
 
   <a href="https://github.com/harshitshringi2005-git">
@@ -72,20 +72,6 @@ Python-based data analysis and machine learning project.
   </a>
 
 </p>
-
----
-
-## 🌐 My Portfolio
-
-<p align="center">
-
-<a href="https://harshitshringi2005-git.github.io/">
-  <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-Visit_Now-000000?style=for-the-badge"/>
-</a>
-
-</p>
-
-> 💻 **Projects • Skills • Certifications • Experience • Resume**
 
 ---
 
