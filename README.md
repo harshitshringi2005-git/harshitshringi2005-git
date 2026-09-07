@@ -43,26 +43,49 @@ Python-based data analysis and machine learning project.
 
 ---
 
-
 ## 🤝 Connect With Me
 
 <p align="center">
+
+  <a href="https://harshitshringi2005-git.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-000000?style=for-the-badge"/>
+  </a>
+
   <a href="https://github.com/harshitshringi2005-git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/harshitshringi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/_harshiittt35">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
   <a href="https://www.snapchat.com/add/s_harshit2203">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
   </a>
+
   <a href="mailto:harshitshringi2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
 </p>
+
+---
+
+## 🌐 My Portfolio
+
+<p align="center">
+
+<a href="https://harshitshringi2005-git.github.io/">
+  <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-Visit_Now-000000?style=for-the-badge"/>
+</a>
+
+</p>
+
+> 💻 **Projects • Skills • Certifications • Experience • Resume**
 
 ---
 
@@ -80,3 +103,5 @@ Python-based data analysis and machine learning project.
 ---
 
 ⭐ **Thanks for visiting my profile!**
+
+### 🚀 Build • Learn • Create • Repeat
